@@ -80,7 +80,6 @@
 'Assets/_Scripts/BottleBehaviour.cs'
 'Assets/_Scripts/ConeBehaviour.cs'
 'Assets/_Scripts/GameController.cs'
-'Assets/_Scripts/LaserBehaviour.cs'
 'Assets/_Scripts/VehicleBehaviour.cs'
 'Assets/_Scripts/WheelBehaviour.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
