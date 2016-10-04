@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/LaserBehaviour.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/LaserBehaviour.cs" Line="24" Column="1" />
+      <File FileName="Assets/_Scripts/WheelBehaviour.cs" Line="24" Column="17" />
+      <File FileName="Assets/_Scripts/VehicleBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/BackgroundBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/BottleBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/ConeBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
